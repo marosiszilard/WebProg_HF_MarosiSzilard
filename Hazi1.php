@@ -44,7 +44,6 @@
 //}
 //echo "<h1>{$_POST['elso_szam']} {$_POST['muvelet']} {$_POST['masodik_szam']} equals {$eredmeny}</h1>";
 ?>
-<html>
 <!---->
 <!--<input name="elso_szam" type="text" class="form-control"/>-->
 <!--<select name="muvelet">-->
@@ -55,4 +54,3 @@
 <!--</select>-->
 <!--<input name="number2" type="text" class="form-control"/>-->
 <!--<input name="submit" type="submit" value="Kiszamol">-->
-</html>
