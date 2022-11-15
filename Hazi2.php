@@ -7,4 +7,6 @@ foreach ($array1 as $element) {
 
     }
 }
+
+// $_COOKIE
 ?>
