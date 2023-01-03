@@ -48,11 +48,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     }
 
 }
-
-
-
-
-
 ?>
 <h3>Online conference registration</h3>
 
