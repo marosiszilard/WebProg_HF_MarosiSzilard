@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5267a29-0fca-4cc2-ba93-b04555f0fae8" name="Changes" comment="" />
+    <list default="true" id="d5267a29-0fca-4cc2-ba93-b04555f0fae8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hazi6.php" beforeDir="false" afterPath="$PROJECT_DIR$/Hazi6.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="2GDZ5JyAFIh3hO7O2FKB1IZ6aqg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +64,7 @@
       <workItem from="1665924977775" duration="355000" />
       <workItem from="1665930983486" duration="1510000" />
       <workItem from="1668543260085" duration="1023000" />
+      <workItem from="1672744103147" duration="149000" />
     </task>
     <servers />
   </component>
